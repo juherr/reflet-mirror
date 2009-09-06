@@ -1,0 +1,6 @@
+E:\developpement\UsbApp\UsbLibrary\bin\Debug\UsbLibrary.dll
+E:\developpement\UsbApp\UsbLibrary\bin\Debug\UsbLibrary.pdb
+E:\developpement\UsbApp\UsbLibrary\obj\Debug\ResolveAssemblyReference.cache
+E:\developpement\UsbApp\UsbLibrary\obj\Debug\UsbLibrary.dll
+E:\developpement\UsbApp\UsbLibrary\obj\Debug\UsbLibrary.pdb
+E:\developpement\UsbApp\UsbLibrary\bin\Debug\UsbLibrary.XML

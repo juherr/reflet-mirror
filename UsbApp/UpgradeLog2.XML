@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="UsbApp">
+</Property><Property Name="Solution File" Value="E:\developpement\UsbApp\UsbApp.sln">
+</Property><Property Name="Date" Value="jeudi 30 juillet 2009">
+</Property><Property Name="Time" Value="20:37:08">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="UsbLibrary" Source="UsbLibrary\UsbLibrary.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="UsbLibrary" Source="UsbLibrary\UsbLibrary.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="UsbLibrary" Source="UsbLibrary\UsbLibrary.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
